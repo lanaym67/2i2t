@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex
+}
+
+.container2{
+    display: flex;
+}
+
+.vermelho{
+width: 2.5%;
+height: 100px;
+background-color: rgb(255, 0, 0);
+}
+
+.verde{
+    width: 2.5%;
+    height: 100px;
+    background-color: rgb(0, 255, 0);
+}
+
+.azul{
+    width: 2.5%;
+    height: 100px;
+    background-color: rgb(0, 102, 255);
+}
+
+.amarelo{
+    width: 2.5%;
+    height: 100px;
+    background-color: rgb(251, 255, 0);
+}
