@@ -1,2 +1,2 @@
-# Aulas do Seguno Trimetre
+# Aulas do Segundo Trimetre
 Lanay Médici Toledo - 20
