@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+margin: 0;
+}
+body{
+    background-color: pink;
+}
+
+.menu{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(163, 101, 221);
+
+
+}
+.conteudo-musica{
+    width: 100%;
+    
+}
+.rodape{
+    width: 100%;
+    background-color: rgb(243, 155, 170);
+    text-align: center;
+}
+.desc-estilos{
+    width: 100%;
+    background-color: rgb(70, 35, 153);
+}
+.desc-solo{
+    width: 100%;
+    background-color: palevioletred;
+}
+.desc-grupo{
+    width: 100%;
+    background-color: rgb(136, 127, 255);
+}
+.desc-bandas{
+    width: 100%;
+    background-color: palevioletred;
+}
+.desc-app{
+    width: 100%;
+    background-color: rgb(124, 50, 181);
+}
+.img-ini{
+    width: 100%;
+}
