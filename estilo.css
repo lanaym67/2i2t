@@ -10,17 +10,17 @@
 .rosa{
     width: 2.5%;
     height: 100%;
-    background-color:#FFAEDE;
+    background-color:#d42d91;
 }
 .roxo{
     width: 2.5%;
     height: 100%;
-    background-color:#E9BEF5;
+    background-color:#d0a0dd;
 }
 .azul{
     width: 2.5%;
     height: 100%;
-    background-color: #CAD5FE;
+    background-color: #9faace;
 }
 .linha {
     display: flex;
