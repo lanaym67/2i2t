@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+.branco{
+    width: 2.5%;
+    height: 100%;
+    background-color: #F4E6E2;
+}
+.rosa{
+    width: 2.5%;
+    height: 100%;
+    background-color:#FFAEDE;
+}
+.roxo{
+    width: 2.5%;
+    height: 100%;
+    background-color:#E9BEF5;
+}
+.azul{
+    width: 2.5%;
+    height: 100%;
+    background-color: #CAD5FE;
+}
+.linha {
+    display: flex;
+    width: 100%;
+    height: 4%;
+}
