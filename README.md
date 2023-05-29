@@ -1,3 +1,4 @@
 # Aulas do segundo trimestre
 ## Tema: Música
-Lanay Medici 20
+### Responsáveis: 34, 30, 09, 23
+Jesus - 50
