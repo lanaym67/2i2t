@@ -1,2 +1,2 @@
-# Aulas do Segundo Trimetre
-Lanay Médici Toledo - 20
+# Aulas do Segundo Trimestre
+Edson Kichie Mario Noguchi - nº7
