@@ -1,2 +1,2 @@
 # Aulas do segundo trimestre 
-Francini Braga - 11
+Lanay Medici- 20
