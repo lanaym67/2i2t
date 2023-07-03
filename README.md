@@ -1,2 +1,3 @@
 # 2i2t
-pedro
+Lanay 
+20
