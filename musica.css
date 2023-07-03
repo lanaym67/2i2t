@@ -1,153 +1,65 @@
-*{
- padding: 0;
- margin: 0;
- color: rgb(0, 0, 0);
+* {
+    padding: 0;
+    margin: 0;
 }
-:root{
-    --fundo: rgb( 4, 0, 255);
-    --fonte: rgb(0, 0, 0);
-    --hover: rgb(153, 153, 153);
-}
-body {
-    background-color: rgb(255, 255, 255);
- }
- a{
-    text-decoration: none;
-}
-ul{
-    list-style: none;
-}
- .header{
-  background-color: var(--fundo);
-  width: 100%;
-  position: sticky;
-  top: 0%;
-}
-.logo{
-    display: inline-block;
-    color: var(--fonte);   
-    font-size: 32px;
-}
-.nav{
+.menu {
     width: 100%;
-    height: 100%;
-    position: fixed;
-    background-color: var(--fundo);
-    overflow: hidden;
+    height: 60px;
+    background-color: salmon;
 }
-.nav a{
-    display: block;
-    padding: 30px;
-    color: var(--fonte);
-}
-.nav a:hover {
-    background-color: var(--hover);
-}
-.nav{
-    max-height: 0;
-    transition: max-height .5s ease-out;
-}
-.hamburger {
-    cursor: pointer;
-    float: right;
-    padding: 35px 20px;
-}
-.hamb-line{
-     background-color: var(--fonte);
-     display: block;
-     height: 2px;
-     position: relative;
-     width: 24px;
-}
-.hamb-line::before{
-    background: var(--fonte);
-    content: "";
-    display: block;
-    height: 100%;
-    position: absolute;
-    transition: all 2s ease-out;
+.conteudo-musica {
     width: 100%;
 }
-.hamb-line::after{
-    background: var(--fonte);
-    content: "";
-    display: block;
-    height: 100%;
-    position: absolute;
-    transition: all 2s ease-out;
+.rodape {
     width: 100%;
-}
-.hamb-line::before{
-    top: 5px;
-}
-.hamb-line::after{
-    top: -5px;
-}
-.side-menu{
-    display: none;
-}
-
-.side-menu:checked ~ nav{
-    max-width: 100%;
-}
-.side-menu:checked ~ .hamburger .hamb-line{
-    background-color: transparent;
-}
-
-.conteudo-musica{
-    width: 100%; 
-}
-
-.rodapé {
-    width: 100%;
-    background-color: slategray;
+    background-color: rgb(188, 204, 221);
     text-align: center;
 }
-.desc-estilo{
+.desc-estilo {
     width: 100%;
     background-color: tan;
 }
-.desc-solo{
+.desc-solo {
     width: 100%;
     background-color: teal;
 }
-.desc-grupo{
-    width: 100%;
-    background-color:tan;
-}
-.desc-banda{
-    width: 100%;
-    background-color: teal;
-}
-.desc-app{
+.desc-grupo {
     width: 100%;
     background-color: tan;
 }
-.img-ini{
+.desc-banda {
+    width: 100%;
+    background-color: teal;
+}
+.desc-app {
+    width: 100%;
+    background-color: tan;
+}
+.img-ini {
     width: 100%;
 }
-@media screen and (min-width: 768px){
-    .menu{
+@media screen and (min-width: 768px) {
+    .menu {
         height: 120px;
         background-color: blueviolet;
-        color: white;
+        color: #FFF;
         font-size: 32px;
     }
-    .desc-banda{
-        display: flex;
+    .desc-solo {
+        display: flex;       
     }
-} 
+
+}
 @media screen and (min-width: 1280px) {
-    .menu{
+    .menu {
         height: 200px;
-        background-color: var(--fundo);
-        color: black;
+        background-color: rgb(121, 177, 121);
         font-size: 64px;
     }
-    .img-ini{
+    .img-ini {
         width: 50%;
     }
     .desc-solo {
         display: grid;
     }
-} 
+}
