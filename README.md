@@ -1,3 +1,2 @@
-# 2i2t
-Lanay 
-20
+# Aulas do segundo trimestre 
+Francini Braga - 11
