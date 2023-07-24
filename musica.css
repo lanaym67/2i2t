@@ -4,9 +4,9 @@
     overflow: 0;
 }
 :root{
-    --fundo: rgb(230, 115, 168);
+    --fundo: rgb(218, 79, 165);
     --fonte: rgb(255, 255, 255);
-    --hover: rgb(95, 146, 194);
+    --hover: rgb(208, 7, 60);
 }
 body{
     background-color: rgba(252, 253, 255, 0.822);
