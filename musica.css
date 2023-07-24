@@ -6,7 +6,7 @@
 :root{
     --fundo: rgb(218, 79, 165);
     --fonte: rgb(255, 255, 255);
-    --hover: rgb(208, 7, 60);
+    --hover: rgb(207, 53, 94);
 }
 body{
     background-color: rgba(252, 253, 255, 0.822);

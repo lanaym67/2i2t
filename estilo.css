@@ -5,12 +5,12 @@
 .branco{
     width: 2.5%;
     height: 100%;
-    background-color: #F4E6E2;
+    background-color: #8470cf;
 }
 .rosa{
     width: 2.5%;
     height: 100%;
-    background-color:#FFAEDE;
+    background-color:#d586b6;
 }
 .roxo{
     width: 2.5%;
@@ -20,7 +20,7 @@
 .azul{
     width: 2.5%;
     height: 100%;
-    background-color: #a8bafa;
+    background-color: #435dba;
 }
 .linha {
     display: flex;
